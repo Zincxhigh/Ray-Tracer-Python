@@ -1,6 +1,10 @@
 
+<p align="center">
+  <img width="256" height="168" alt="images (1)" src="https://github.com/user-attachments/assets/37233c51-30d0-4ae8-bf27-3c38a47051d5" />
+</p>
 
-<img width="256" height="168" alt="images (1)" src="https://github.com/user-attachments/assets/37233c51-30d0-4ae8-bf27-3c38a47051d5" />
+
+
 # Ray Tracer Project
 
 ## Summary
